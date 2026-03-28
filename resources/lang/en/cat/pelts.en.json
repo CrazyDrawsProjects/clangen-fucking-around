@@ -101,6 +101,8 @@
         "Agouti_long": "%{color} tabby",
         "Singlestripe": "single-striped",
         "Singlestripe_long": "dorsal-striped %{color}",
+        "CrazySinglestripe": "single-striped",
+        "CrazySinglestripe_long": "dorsal-striped %{color}",
         "Rosette": "Rosette",
         "Rosette_long": "unusually spotted %{color}",
         "Sokoke": "Sokoke",

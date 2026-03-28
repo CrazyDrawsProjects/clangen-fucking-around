@@ -930,7 +930,7 @@ class Pelt:
 
                 else:
                     # Normal generation
-                    if self.tortie_base in ("singlestripe", "smoke", "single"):
+                    if self.tortie_base in ("singlestripe", "crazysinglestripe", "smoke", "single"):
                         self.tortie_pattern = choice(
                             [
                                 "tabby",

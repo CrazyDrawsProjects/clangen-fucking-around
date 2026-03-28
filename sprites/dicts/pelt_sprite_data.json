@@ -13,6 +13,7 @@
         "colours_sokoke": ["Sokoke"],
         "colours_agouti": ["Agouti"],
         "colours_singlestripe": ["Singlestripe"],
+        "colours_crazysinglestripe": ["CrazySinglestripe"],
         "colours_masked": ["Masked"]
     },
     "sprite_list": [
@@ -56,6 +57,7 @@
         "sokoke",
         "agouti",
         "singlestripe",
+        "crazysinglestripe",
         "masked"
     ],
     "pattern_categories": {
@@ -75,7 +77,8 @@
             "SingleColour",
             "TwoColour",
             "Smoke",
-            "Singlestripe"
+            "Singlestripe",
+            "CrazySinglestripe"
         ],
         "exotic": [
             "Bengal",
